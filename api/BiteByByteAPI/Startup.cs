@@ -40,6 +40,8 @@ namespace BiteByByteAPI
                 sp.GetRequiredService<IOptions<BiteByByteDatabaseSettings>>().Value);
             
             services.AddSingleton<UserService>();
+            
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -49,6 +51,10 @@ namespace BiteByByteAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+            
+            // enable CORS for angular application
+            app.UseCors(builder =>
+                builder.WithOrigins("http://localhost:4200"));
 
             app.UseHttpsRedirection();
 
