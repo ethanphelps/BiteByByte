@@ -31,3 +31,13 @@
 /Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNet.Identity.Core.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/ethan/Dev/BiteByByte/api/BiteByByteAPI/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
