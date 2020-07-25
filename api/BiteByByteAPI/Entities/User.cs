@@ -35,10 +35,5 @@ namespace BiteByByteAPI.Entities
         [BsonElement("passwordsalt")]
         [JsonProperty("PasswordSalt")]
         public byte[] PasswordSalt { get; set; }
-        
-        // [JsonIgnore]
-        // public string Password { get; set; }
-        //
-        // public string Token { get; set; }
     }
 }

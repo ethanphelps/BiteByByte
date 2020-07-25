@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Tutorial imports */
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+/* Global colors */
+$white-smoke: rgb(245, 245, 245);
+$succulent: rgb(126, 199, 112);
+$dandelion: rgb(244, 220, 64);
+$tangerine: rgb(253, 174, 75);
+$coral: rgb(237, 118, 104);
+$lavender: rgb(220, 209, 254);
+$steel-blue: rgb(94, 165, 205);
+$sky-blue: rgb(55, 204, 227);
+$seafoam-green: rgb(115, 235, 171);
+$flamingo-pink: rgb(253, 145, 211);
+$dark-navy: rgb(24, 44, 76);
+
+a { cursor: pointer; }
+
+.app-container {
+  background-color: $white-smoke;
+  min-height: 320px;
+  height: 100vh;
+  overflow: scroll;
+}
+
+.btn-delete-user {
+  width: 40px;
+  text-align: center;
+  box-sizing: content-box;
+}

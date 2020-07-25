@@ -7,6 +7,9 @@ import { map } from 'rxjs/operators';
 import { environment } from '@environments/environment';
 import { User } from '@app/_models/user';
 
+/*
+ * Handles all API requests for the user such as registering, login, update and deletion
+ */
 @Injectable({ providedIn: 'root' })
 export class AccountService {
   private userSubject: BehaviorSubject<User>;

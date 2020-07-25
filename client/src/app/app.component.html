@@ -5,10 +5,11 @@
     <a class="nav-item nav-link" routerLink="/users" routerLinkActive="active">Users</a>
     <a class="nav-item nav-link" (click)="logout()">Logout</a>
   </div>
+  <h2 class="app-title">Bite by Byte</h2>
 </nav>
 
 <!-- main app container -->
-<div class="app-container" [ngClass]="{ 'bg-light': user }">
+<div class="app-container">
   <alert></alert>
   <router-outlet></router-outlet>
 </div>
